@@ -104,6 +104,10 @@ gehe zu %s"</string>
   <string name="stopping_the_heat">Chǔshǔ - Ende der Hitze</string>
   <string name="summer_begins">Lìxià - Sommeranfang</string>
   <string name="summer_solstice">Xiàzhì - Sommerankunft</string>
+  <string name="vip_achievements">Erfolge</string>
+  <string name="vip_level">LV%d</string>
+  <string name="vip_not_login">Nicht eingeloggt</string>
+  <string name="vip_sign">Signatur:</string>
   <string name="teachers_day">Tag der Lehrer</string>
   <string name="the_armys_day">Tag der Streitkräfte</string>
   <string name="the_double_ninth_festival">Chung Yeung Festival</string>
@@ -117,10 +121,6 @@ gehe zu %s"</string>
   <string name="tw_youth_day">Tag der Jugend</string>
   <string name="united_nations_day">Tag der Vereinten Nationen</string>
   <string name="valentines_day">Valentinstag</string>
-  <string name="vip_achievements">Leistungen</string>
-  <string name="vip_level">LV%d</string>
-  <string name="vip_not_login">Nicht angemeldet</string>
-  <string name="vip_sign">Unterschrift:</string>
   <string name="white_dews">Baílù - Weißer Tau</string>
   <string name="winter_begins">Lìdōng - Winterbeginn</string>
   <string name="winter_solstice">Dōngzhì - Winterankuft</string>
