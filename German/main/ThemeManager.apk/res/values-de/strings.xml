@@ -34,9 +34,9 @@
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Größe: %2$s</string>
   <string name="desktop_wallpaper">Desktop</string>
-  <string name="download_failed">Download fehlgeschlagen</string>
+  <string name="download_failed">Herunterladen fehlgeschlagen</string>
   <string name="download_preview_failed">Laden der Vorschau fehlgeschlagen</string>
-  <string name="download_success">Download abgeschlossen</string>
+  <string name="download_success">Herunterladen abgeschlossen</string>
   <string name="fail_to_add_account">Konto, konnte nicht hinzugefügt werden</string>
   <string name="favorite_list">Favoriten</string>
   <string name="favorite_list_format">Favoriten %1$s</string>
@@ -164,7 +164,7 @@
   <string name="resource_detail_update_log_title">Updates</string>
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s Details</string>
-  <string name="resource_download">Download</string>
+  <string name="resource_download">Herunterladen</string>
   <string name="resource_download_notification_title_many">%1$s Themen heruntergeladen</string>
   <string name="resource_download_notification_title_one">Theme heruntergeladen</string>
   <string name="resource_download_trial">Kostenlose Testversion</string>
@@ -199,7 +199,7 @@
   <string name="resource_has_been_downloaded">Sie haben dieses Theme bereits heruntergeladen</string>
   <string name="resource_hint">Hinweis</string>
   <string name="resource_import_failed">Import fehlgeschlagen</string>
-  <string name="resource_import_successful">Download abgeschlossen</string>
+  <string name="resource_import_successful">Herunterladen abgeschlossen</string>
   <string name="resource_importing">Importiere…</string>
   <string name="resource_list_title">Zuletzt ausgewählt</string>
   <string name="resource_local">Lokal %1$s</string>
